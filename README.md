@@ -4,6 +4,12 @@ Bem-vindo à API de Cotação de Preços com o Chat GPT-3.5 Turbo! Esta API util
 
 ## Como Usar
 
+0. Acesse a rota local e utilize a interface amigável :).
+
+   ```bash
+   click in localhost or ip name 
+   ```
+
 1. Clone este repositório em sua máquina local.
 
    ```bash
